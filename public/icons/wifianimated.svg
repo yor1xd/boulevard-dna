@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24" fill="none">
+  <!-- Stroke 1 -->
+  <path d="M4 11C6.38695 11 8.67613 11.9482 10.364 13.636C12.0518 15.3239 13 17.6131 13 20" 
+        stroke="#754927" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0">
+    <animate attributeName="stroke-opacity" values="0;0;1;1;0" dur="2s" begin="0s" repeatCount="indefinite" />
+  </path>
+  
+  <!-- Stroke 2 -->
+  <path d="M4 4C8.24346 4 12.3131 5.68571 15.3137 8.68629C18.3143 11.6869 20 15.7565 20 20" 
+        stroke="#754927" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0">
+    <animate attributeName="stroke-opacity" values="0;0;0;1;0" dur="2s" begin="0s" repeatCount="indefinite" />
+  </path>
+  
+  <!-- Stroke 3 -->
+  <path d="M6 19C6 19.5523 5.55228 20 5 20C4.44772 20 4 19.5523 4 19C4 18.4477 4.44772 18 5 18C5.55228 18 6 18.4477 6 19Z" 
+        stroke="#754927" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0">
+    <animate attributeName="stroke-opacity" values="1;1;1;1;1" dur="1s" begin="0s" repeatCount="indefinite" />
+  </path>
+</svg>
